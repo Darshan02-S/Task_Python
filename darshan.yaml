@@ -1,0 +1,226 @@
+info:
+  page: 1
+  results: 5
+  seed: 2f6dd3aa3b2d0b1f
+  version: '1.4'
+results:
+- cell: 0447-259-861
+  dob:
+    age: 53
+    date: '1969-11-21T11:35:13.208Z'
+  email: willie.wilson@example.com
+  gender: female
+  id:
+    name: TFN
+    value: '192815239'
+  location:
+    city: Bunbury
+    coordinates:
+      latitude: '-83.6977'
+      longitude: '19.0310'
+    country: Australia
+    postcode: 8696
+    state: Australian Capital Territory
+    street:
+      name: Poplar Dr
+      number: 7900
+    timezone:
+      description: Almaty, Dhaka, Colombo
+      offset: '+6:00'
+  login:
+    md5: 34cdd7a76776840dc2583f224e60844b
+    password: tyler
+    salt: 1a7dazEw
+    sha1: 206c19a7e1f0167c025ddee0f0bd15167d80ebcf
+    sha256: 04033f0a06ce99523e2d7fc06704997b8c05d5050b27f5951857a0db6608ca73
+    username: purplefrog487
+    uuid: ff0cca31-cd0e-4106-b5ea-56723748aff4
+  name:
+    first: Willie
+    last: Wilson
+    title: Miss
+  nat: AU
+  phone: 04-3569-9246
+  picture:
+    large: https://randomuser.me/api/portraits/women/23.jpg
+    medium: https://randomuser.me/api/portraits/med/women/23.jpg
+    thumbnail: https://randomuser.me/api/portraits/thumb/women/23.jpg
+  registered:
+    age: 17
+    date: '2005-10-26T10:30:54.739Z'
+- cell: (099) M42-4793
+  dob:
+    age: 27
+    date: '1995-11-27T22:20:30.332Z'
+  email: borimisl.dzyuba@example.com
+  gender: male
+  id:
+    name: ''
+    value: null
+  location:
+    city: Snovsk
+    coordinates:
+      latitude: '-4.2406'
+      longitude: '36.0238'
+    country: Ukraine
+    postcode: 64105
+    state: Mikolayivska
+    street:
+      name: Zolotovoritska
+      number: 5522
+    timezone:
+      description: Brazil, Buenos Aires, Georgetown
+      offset: '-3:00'
+  login:
+    md5: 224675dd96b0a7d7d2522c84676efc75
+    password: victoria
+    salt: G3fzQrGu
+    sha1: 28f5663bae244a0b439ff545189f03a9b4fcd5a6
+    sha256: a9562f9f5b857679f6a822d4116b0bc6fc37dbf8b4f4bacce4cfe3a9258f4079
+    username: sadzebra933
+    uuid: 6c49fd91-2f4d-4284-9fde-114585c998d1
+  name:
+    first: Borimisl
+    last: Dzyuba
+    title: Mr
+  nat: UA
+  phone: (098) Z68-3118
+  picture:
+    large: https://randomuser.me/api/portraits/men/78.jpg
+    medium: https://randomuser.me/api/portraits/med/men/78.jpg
+    thumbnail: https://randomuser.me/api/portraits/thumb/men/78.jpg
+  registered:
+    age: 15
+    date: '2007-08-12T05:33:12.002Z'
+- cell: T16 Z52-2442
+  dob:
+    age: 70
+    date: '1952-05-07T08:26:48.743Z'
+  email: logan.levesque@example.com
+  gender: male
+  id:
+    name: SIN
+    value: '923150700'
+  location:
+    city: Oakville
+    coordinates:
+      latitude: '-15.0888'
+      longitude: '68.9220'
+    country: Canada
+    postcode: P5U 8C8
+    state: Newfoundland and Labrador
+    street:
+      name: George St
+      number: 1145
+    timezone:
+      description: Azores, Cape Verde Islands
+      offset: '-1:00'
+  login:
+    md5: 4673819d3e19a55fcf1ec0709cc1a17e
+    password: q1w2e3r4
+    salt: 2fqPvnPa
+    sha1: 9da718c0d47d02462b49c08c8777651e42793332
+    sha256: 063d0e7c23250182d0da63a08fa00eb05be897eb7e6bf344a3122ce53dfa17e5
+    username: brownduck800
+    uuid: 485fbfee-4cbf-4ad6-b2de-7636be416896
+  name:
+    first: Logan
+    last: "L\xE9vesque"
+    title: Mr
+  nat: CA
+  phone: O02 D64-5009
+  picture:
+    large: https://randomuser.me/api/portraits/men/89.jpg
+    medium: https://randomuser.me/api/portraits/med/men/89.jpg
+    thumbnail: https://randomuser.me/api/portraits/thumb/men/89.jpg
+  registered:
+    age: 20
+    date: '2002-04-15T16:54:48.925Z'
+- cell: (69) 7584-6326
+  dob:
+    age: 40
+    date: '1982-04-23T22:39:34.818Z'
+  email: ataide.rezende@example.com
+  gender: male
+  id:
+    name: CPF
+    value: 808.420.317-11
+  location:
+    city: "Jaboat\xE3o dos Guararapes"
+    coordinates:
+      latitude: '-69.3895'
+      longitude: '0.3760'
+    country: Brazil
+    postcode: 62538
+    state: Amazonas
+    street:
+      name: 'Rua Das Flores '
+      number: 957
+    timezone:
+      description: Baghdad, Riyadh, Moscow, St. Petersburg
+      offset: '+3:00'
+  login:
+    md5: c2a26aac8dda15bbf21d129e2207123f
+    password: laurie
+    salt: 2WQdrtxR
+    sha1: b1074873fe8015c0c223057e9f2b3896d9fac841
+    sha256: 562ee72e35f925acc04c208dabd943a26c0ea395766d2e57d6f80b1ff680273d
+    username: lazywolf139
+    uuid: 959d14a5-3a0b-433c-a0e8-142a7900fc2a
+  name:
+    first: "Ata\xEDde"
+    last: Rezende
+    title: Mr
+  nat: BR
+  phone: (98) 7311-5713
+  picture:
+    large: https://randomuser.me/api/portraits/men/5.jpg
+    medium: https://randomuser.me/api/portraits/med/men/5.jpg
+    thumbnail: https://randomuser.me/api/portraits/thumb/men/5.jpg
+  registered:
+    age: 7
+    date: '2016-01-29T02:37:05.679Z'
+- cell: (18) 2718-2599
+  dob:
+    age: 47
+    date: '1976-02-06T00:09:33.487Z'
+  email: sumaya.mendes@example.com
+  gender: female
+  id:
+    name: CPF
+    value: 265.276.096-96
+  location:
+    city: "S\xE3o Lu\xEDs"
+    coordinates:
+      latitude: '89.2902'
+      longitude: '35.5714'
+    country: Brazil
+    postcode: 38183
+    state: "Amap\xE1"
+    street:
+      name: 'Rua Rui Barbosa '
+      number: 1968
+    timezone:
+      description: Tehran
+      offset: '+3:30'
+  login:
+    md5: 10b7566d4b7019a8662ab0f55d6100e3
+    password: conner
+    salt: ZVlH4GDF
+    sha1: fee249c182af1c5c619f52cfe143dbc75aa7a86b
+    sha256: a4bbc51fa7426e798b3e212657c0f4f52524e4c20cd3815278e203112cdf0309
+    username: bigzebra118
+    uuid: 43673e46-280b-4009-9cd1-d042d913729d
+  name:
+    first: Sumaya
+    last: Mendes
+    title: Mrs
+  nat: BR
+  phone: (81) 7221-1545
+  picture:
+    large: https://randomuser.me/api/portraits/women/22.jpg
+    medium: https://randomuser.me/api/portraits/med/women/22.jpg
+    thumbnail: https://randomuser.me/api/portraits/thumb/women/22.jpg
+  registered:
+    age: 15
+    date: '2008-01-23T03:20:40.238Z'
