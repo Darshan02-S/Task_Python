@@ -13,7 +13,6 @@ def openweatherapi(location):
     print('Latitude, Longitude : ', data['coord']['lon'], ',', data['coord']['lat'])
     print('Pressure : ', data['main']['pressure'])
     print('Humidity : ', data['main']['humidity'])
-    print('Sea level : ', data['main']['sea_level'])
     print('Wind Speed : ', data['wind']['speed'])
     #these are the needed datas from the json
 location = input("enter location : ")
